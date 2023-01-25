@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "/Users/kenichi/Desktop/Sights/result-app/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -96,6 +97,7 @@
               "src/assets"
             ],
             "styles": [
+              "/Users/kenichi/Desktop/Sights/result-app/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -103,5 +105,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "72235cff-d533-4b90-8370-5e7dac35042f"
   }
 }
